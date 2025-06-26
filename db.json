@@ -1,0 +1,40 @@
+{
+  "childhood_flix": [
+    {
+      "id": "1",
+      "title": "The Lion King",
+      "type": "movies",
+      "year": "1994",
+      "desciption": "a young lion prince flees his kingdom after his evil uncle frames him for his father's death"
+    },
+    {
+      "id": "2",
+      "title": "Home Alone",
+      "year": "1998",
+      "type": "movies",
+      "desciption": "an 8-year-old boy is accedentally left behind when his family flies to paris for christmas "
+    },
+    {
+      "id": "3 ",
+      "title": "Toy Story",
+      "year": "1995",
+      "type": "movies",
+      "desciption": "A cowboy doll feels threatened and jealous when a new a spaceman figure supplants him as a boy's favorite toy "
+
+    },
+    {
+      "id": "4",
+      "title": "Sofia The First",
+      "year": "1994",
+      "type": "Tv show",
+      "desciption": "This is a stoy about a young village girl whose life changed after her mother got married by teh King of their village."
+
+    },
+    {
+      "id": "5",
+      "title": "Cars",
+      "year": "2006",
+      "desciption": "lightning is determined to become a famous racer."
+    }
+  ]
+}
